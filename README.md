@@ -26,6 +26,7 @@ contoh `<p align="center"> Ini adalah Paragraf Pertama </p>`
 
 5. Memasukan Judul
 Untuk membuat judul di dalam HTML kita hanya perlu menulis :
+
 `<h1> ->` <h1>Ini adalah H1</h1>
 `<h3>->` <h2>Ini adalah H2</h2>
 `<h3>-> `<h3>Ini adalah H3 </h3>
