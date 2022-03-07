@@ -1,6 +1,6 @@
 # Lab1Web
 ## Membuat Halaman Web Dasar HTML
-## Memasukan titel Web
+1. Memasukan Title pada bagian HTML
 ![1_1.png](Gambar/1_1.png)
-## Maka Tampil Didalam web Akan Seperti Ini
+* Maka Tampilan Title dalam web akan berubah seperti gambar di bawah ini
 ![1.png](Gambar/1.png)
