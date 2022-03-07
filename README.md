@@ -26,16 +26,44 @@ contoh `<p align="center"> Ini adalah Paragraf Pertama </p>`
 
 5. Memasukan Judul
 Untuk membuat judul di dalam HTML kita hanya perlu menulis :
-        <h1>Ini adalah H1</h1> -> Ukuran text terbesar dalam HTML
-        <h2>Ini adalah H2</h2> -> Ukuran text dibawaha H1
-        <h3>Ini adalah H3 </h3> -> Ukuran text dibawah H2
+        <h1>Ini adalah H1</h1>
+        <h2>Ini adalah H2</h2>
+        <h3>Ini adalah H3 </h3>
+        <h4>Ini adalah H4 </h4>
+        <h5>Ini adalah H5 </h5>
+        <h6>Ini adalah H6 </h6>
 ![5_5.png](Gambar/5_5.png)
+* Disini untuk judul paragraf 1 menggunakan `<h1>` dan untuk paragraf 2 menggunakan `<h2>` 
 ![5.png](Gambar/5.png)
 
-* 
+6. Membuat text menjadi Bold
+membuat text menjadi bold hanya perlu memasukan `<b></b>` didalam sebuah text contoh seperti di bawah ini
 ![6_6.png](Gambar/6_6.png)
+* makan Text akan menjadi Bold seperti tampilan di bawah ini
 ![6.png](Gambar/6.png)
 
-* 
+7. Membuat Tulisan Miring
+Untuk membuat tulisan menjadi miring sama halnya seprti diatas kita hanya memasukan `<i></i>` didalam Text.
 ![7_7.png](Gambar/7_7.png)
+* Hasilnya seperti di bawah ini
 ![7.png](Gambar/7.png)
+
+8. 
+![8_8.png](Gambar/8_8.png)
+* 
+![8.png](Gambar/8.png)
+
+9. 
+![9_9.png](Gambar/9_9.png)
+* 
+![9.png](Gambar/9.png)
+
+10. 
+![10_10.png](Gambar/10_10.png)
+* 
+![10.png](Gambar/10.png)
+
+11. 
+![11_11.png](Gambar/11_11.png)
+* 
+![11.png](Gambar/11.png)
