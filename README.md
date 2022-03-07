@@ -26,12 +26,12 @@ contoh `<p align="center"> Ini adalah Paragraf Pertama </p>`
 
 5. Memasukan Judul
 Untuk membuat judul di dalam HTML kita hanya perlu menulis :
-        <h1>Ini adalah H1</h1>
-        <h2>Ini adalah H2</h2>
-        <h3>Ini adalah H3 </h3>
-        <h4>Ini adalah H4 </h4>
-        <h5>Ini adalah H5 </h5>
-        <h6>Ini adalah H6 </h6>
+        `<h1>`-> <h1>Ini adalah H1</h1>
+        `<h3>`-> <h2>Ini adalah H2</h2>
+        `<h3>`-> <h3>Ini adalah H3 </h3>
+        `<h4>`-> <h4>Ini adalah H4 </h4>
+        `<h5>`-> <h5>Ini adalah H5 </h5>
+        `<h6>`-> <h6>Ini adalah H6 </h6>
 ![5_5.png](Gambar/5_5.png)
 * Disini untuk judul paragraf 1 menggunakan `<h1>` dan untuk paragraf 2 menggunakan `<h2>` 
 ![5.png](Gambar/5.png)
@@ -48,22 +48,34 @@ Untuk membuat tulisan menjadi miring sama halnya seprti diatas kita hanya memasu
 * Hasilnya seperti di bawah ini
 ![7.png](Gambar/7.png)
 
-8. 
+8. Membuat Heperling
+Contoh membuat Herpeling :
+`<a href="">paragraf ini dibuat menggunakan tag html.</a>`
 ![8_8.png](Gambar/8_8.png)
-* 
+* Maka akan seperti di bawah ini
 ![8.png](Gambar/8.png)
 
-9. 
+9. Menambahkan Gambar
+Contoh memasukan Gambar di dalam HTML, untuk memasukan gambar dalam HTML hanya perlu menuliskan `<img src="Tempat Folder Gambar/Nama Gambar" title="Untuk Title gambar">` Contoh seperti dibawah ini.
 ![9_9.png](Gambar/9_9.png)
-* 
+*  Maka akan Seperti di bawah ini
 ![9.png](Gambar/9.png)
 
-10. 
+10. Mengatur ukuran gambar
+Untuk mengatur ukuran gambar hanya perlu memasukan `width="ukuran yang di inginkan"` contoh seperti dibawah ini
 ![10_10.png](Gambar/10_10.png)
-* 
+* Maka akan terlitah ukuranya berbeda dengan sebelumnya
 ![10.png](Gambar/10.png)
 
-11. 
+11. Nav Bar
+Untuk membuat sebuah Nav Bar hanya perlu memasukan :
+    `<nav>`
+            `<a href="lab1_tag_dasar.html">Dasar HTML</a>`
+            `<a href="lab1_halaman2.html">Halaman 2</a>`
+            `<a href="http://www.google.com">Halaman Web Eksternal Google</a>`
+    `</nav>`
+        `<hr>` 
+    Kegunaan `<hr>` untuk membuat garis 
 ![11_11.png](Gambar/11_11.png)
-* 
+* Maka Akan tampil seperti di bawah ini
 ![11.png](Gambar/11.png)
