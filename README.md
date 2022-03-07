@@ -17,11 +17,18 @@
 * Maka tapilan paragraf 1 dan Paragraf 2 akan memiliki jeda seperti di gambar bawah ini
 ![3.png](Gambar/3.png)
 
-* 
+4. Membuat Posisi Text berada di tengah
+untuk membuat text berada di posisi tengah kita memasukan `align="center"` untuk memasukannya kita tinggal menentukan bagian text mana yang akan berada di posisi tengah.
+contoh `<p align="center"> Ini adalah Paragraf Pertama </p>`
 ![4_4.png](Gambar/4_4.png)
+* Maka Text Akan ber pindah ke posisi tengah seperti di bawah ini
 ![4.png](Gambar/4.png)
 
-* 
+5. Memasukan Judul
+Untuk membuat judul di dalam HTML kita hanya perlu menulis :
+        <h1>Ini adalah H1</h1> -> Ukuran text terbesar dalam HTML
+        <h2>Ini adalah H2</h2> -> Ukuran text dibawaha H1
+        <h3>Ini adalah H3 </h3> -> Ukuran text dibawah H2
 ![5_5.png](Gambar/5_5.png)
 ![5.png](Gambar/5.png)
 
