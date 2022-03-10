@@ -93,5 +93,5 @@ Untuk membuat sebuah Nav Bar hanya perlu memasukan :
 2. tag `<p>` untuk menulis sebuah paragraf pada HTML sedangkan tag `<br>` untuk memberikan baris baru pada sebuah HTML.
 3. * `ALT` atau text atlternatif adalah atribut yang ditambahkan ke tag gambar dalam HTML. texs ini muncul di dalam wadah gambar ketika gambar tidak dapat di tampilkan. ini membantu mesin pencarian memahami apa isi dari gambar tersebut. text alternatif juga sangat membantu dalam kasus gambar yang tidak ditemukan pada halaman gambar rusak, seperti gambar di bawah ini.
 ![jawaban3.png](Gambar/jawaban3.png)
-* `Title image` adalah atribut lain yang dapat di tambhakan ke tag gambar dalam HTML. Title image ini digunakan untuk memberikan judul pada gambar. Text yang ada di dalam tag judul tidak akan ditampilkan kepada pengguna ketika gambar tidak dapat di tampilkan. Sebaliknya, tag judul gambar ini ditampilkan saat mouse menyorot pada gambar. seperti gambar di bawah ini.
+   * `Title image` adalah atribut lain yang dapat di tambhakan ke tag gambar dalam HTML. Title image ini digunakan untuk memberikan judul pada gambar. Text yang ada di dalam tag judul tidak akan ditampilkan kepada pengguna ketika gambar tidak dapat di tampilkan. Sebaliknya, tag judul gambar ini ditampilkan saat mouse menyorot pada gambar. seperti gambar di bawah ini.
 ![jawaban3_3.png](Gambar/jawaban3_3.png)
